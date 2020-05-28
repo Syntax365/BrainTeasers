@@ -1,0 +1,13 @@
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.exe
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.deps.json
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.runtimeconfig.json
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.runtimeconfig.dev.json
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.dll
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\bin\Debug\netcoreapp3.1\BrainTeasers.pdb
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.csprojAssemblyReference.cache
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.AssemblyInfoInputs.cache
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.AssemblyInfo.cs
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.dll
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.pdb
+C:\Users\Tyler Prill\Documents\GitHub\BrainTeasers\obj\Debug\netcoreapp3.1\BrainTeasers.genruntimeconfig.cache
